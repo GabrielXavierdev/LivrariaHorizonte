@@ -59,23 +59,7 @@ Protótipo criado com fins educacionais para apresentação de projeto em cadeir
 
 ## Como Executar
 
-### Opção 1: Servidor Local Simples
-```bash
-# Navegue até o diretório do projeto
-cd livraria-horizonte-html
-
-# Inicie um servidor HTTP simples (Python 3)
-python -m http.server 8000
-
-# Ou usando Node.js (se disponível)
-npx serve .
-
-# Acesse no navegador: http://localhost:8000
-```
-
-### Opção 2: Abrir Diretamente
 - Abra o arquivo `index.html` diretamente no navegador
-- **Nota**: Algumas funcionalidades podem ter limitações devido às políticas CORS
 
 ## Estrutura de Arquivos
 
